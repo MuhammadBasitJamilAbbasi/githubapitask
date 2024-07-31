@@ -35,3 +35,5 @@ The application interacts with the following GitHub API endpoints:
    - **Path Parameter**: `username` (GitHub username)
    - **Response**: `GitHubUserprofile` object.
 
+![mockone](https://github.com/user-attachments/assets/fdd1ba9a-785f-4740-8f76-ad3c5ebccf24)
+![mocktwo](https://github.com/user-attachments/assets/5e253f80-e142-4123-bafc-9871f8065144)
